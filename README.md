@@ -14,5 +14,5 @@ npm-debug.log
 5. Check with docker image ls
 6. run with: docker run -p 5000:8080 dockerized-node-server
 7. To push to docker hub use
-docker login
-docker tag dockerized-node-server <username>/dockerized-node-server:0.0.1-SNAPSHOT
+docker login <br />
+docker tag dockerized-node-server username/dockerized-node-server:0.0.1-SNAPSHOT
